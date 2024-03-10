@@ -95,3 +95,4 @@ cd sql_reference
 git add sql_reference.json
 git status
 git commit -m "feat: add create database reference"
+git log

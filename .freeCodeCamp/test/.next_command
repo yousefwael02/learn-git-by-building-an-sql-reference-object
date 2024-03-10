@@ -37,3 +37,4 @@ git status
 touch sql_reference.json
 git status
 git add sql_reference.json
+git status

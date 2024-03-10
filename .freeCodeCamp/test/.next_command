@@ -30,3 +30,4 @@ ls --color=auto -a
 git status
 git checkout -b main
 git status
+touch README.md

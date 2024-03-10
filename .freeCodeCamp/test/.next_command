@@ -209,3 +209,4 @@ git branch
 git add sql_reference.json
 git commit -m "feat: add create table reference"
 git log
+git log --oneline

@@ -147,3 +147,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd sql_reference
 git add sql_reference.json
+git commit -m "feat: add drop database reference"
